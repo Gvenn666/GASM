@@ -1,3 +1,6 @@
+#HEAD
+8
+#ID
 NOP:00:0
 LDI:01:1
 STR:02:1
@@ -18,3 +21,5 @@ JMF:34:1
 OUT:40:0
 INP:41:0
 HLT:ff:0
+#IGNORE
+//
